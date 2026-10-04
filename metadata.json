@@ -1,0 +1,6 @@
+{
+  "name": "Log4j Shield - Vulnerability Scanner & CVE Audit Platform",
+  "description": "Comprehensive Apache Log4j vulnerability detector, CVE database manager, manifest auto-fixer, and printable audit report generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
